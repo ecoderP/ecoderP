@@ -4,7 +4,7 @@
 **ecoderP/ecoderP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# Hi, I'm Paul Onyebuchi 👋
+# I'm Paul Onyebuchi
 
 Cloud Engineer focused on AWS, CI/CD, and cloud-native web deployment.
 
@@ -77,17 +77,20 @@ A production-grade deployment pipeline for a React application deployed to AWS a
 - CloudFront cache invalidation ensures users always see the most recent updates.
 - Dual deployment strategy
 
-## Tech
+### Tech
 
 React + Vite | AWS S3 | CloudFront | GitHub Actions | IAM Role | CloudTrail | Vitest | Tailwind CSS
 
-## Links
+### Links
+
+![Architecture Diagran](img/CI-CDPipeline.webp)
 
 - [Live Demo](https://paulbuchi.xyz)
-- ![Architecture Diagran](img/CI-CDPipeline.webp)
+
 - [Repo](https://github.com/ecoderP/portfolio-3.0)
 
 ## Connect
 
 LinkedIn: [Paul Onyebuchi](https://www.linkedin.com/in/paulonyebuchi/)
+
 Portfolio: [Websie](https://paulbuchi.xyz)
