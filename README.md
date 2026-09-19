@@ -22,39 +22,26 @@ My background in municipal infrastructure systems informs how I approach cloud e
 
 ## Technologies:
 
-### Languages:
+**Languages:**
 
-- Python
-- C++
-- JavaScript
-- SQL, HTML, CSS
+`Python` `C++` `JavaScript` `SQL` `HTML` `CSS`
 
-### Cloud & Infrastructure:
+**Cloud & Infrastructure:**
 
-- AWS
-- Terraform
-- S3, CloudFront
-- Lambda, API Gateway, IAM, Amplify
-- Bedrock
+`AWS` `Terraform` `S3` `CloudFront` `Lambda` `API Gateway` `IAM`
+`Amplify` `Bedrock`
 
-### Development
+**Development:**
 
-- React, Vite
-- REST APIs
-- Git
-- GitHub Actions
+`React, Vite` `REST APIs` `Git` `GitHub Actions`
 
-### Systems
+**Systems:**
 
-- Linux
-- Bash
-- C++
-- Operating Systems
+`Linux` `Bash` `C++` `Operating Systems`
 
-### AI
+**AI**
 
-- Amazon Bedrock
-- Generative AI
+`Amazon Bedrock` `Generative AI`
 
 ## Featured Projects
 
@@ -62,7 +49,7 @@ My background in municipal infrastructure systems informs how I approach cloud e
 
 A cloud-native application designed to analyze water quality reports, it takes water quality tests results from a user, and provide AI-assisted analysis and safety recommendations based on EPA and WHO water quality standards.
 
-Technologies: React • Python • AWS Lambda • API Gateway • Amazon Bedrock • Terraform • DynamoDB
+**Technologies:** React, Python, AWS Lambda, API Gateway, Amazon Bedrock, Terraform, DynamoDB
 
 The project explores how cloud services, operational regulations, generative AI, and software engineering workflows can be combined into a practical tool for public safety.
 
@@ -70,7 +57,7 @@ The project explores how cloud services, operational regulations, generative AI,
 
 Reusable AWS infrastructure for deploying a static web application using Infrastructure as Code and automated CI/CD.
 
-Technologies: Terraform • AWS S3 • CloudFront • IAM • GitHub Actions • OIDC
+**Technologies:** Terraform, AWS, S3, CloudFront, IAM, GitHub Actions, OIDC
 
 The project uses GitHub Actions with AWS OIDC authentication to deploy infrastructure and application changes without relying on long-lived AWS credentials.
 
@@ -78,7 +65,7 @@ The project uses GitHub Actions with AWS OIDC authentication to deploy infrastru
 
 A responsive React-based portfolio demonstrating frontend development and automated cloud deployment.
 
-Technologies: React • Vite • Tailwind CSS • AWS S3 • GitHub Pages • GitHub Actions
+**Technologies:** React, Vite, Tailwind CSS, AWS S3, GitHub Pages, GitHub Actions
 
 The application is deployed through automated CI/CD workflows targeting both GitHub Pages and AWS.
 
@@ -92,15 +79,17 @@ I'm now focused on developing deeper expertise in cloud and software engineering
 
 ## Current Focus
 
+```text
 Cloud Engineering
-↓
+        ↓
 Software & Systems
-↓
+        ↓
 C++ • Linux • Operating Systems
-↓
+        ↓
 Embedded Systems & IoT
-↓
+        ↓
 Cloud-Connected Devices
+```
 
 I'm particularly interested in engineering problems that sit at the intersection of software, infrastructure, and physical systems.
 
