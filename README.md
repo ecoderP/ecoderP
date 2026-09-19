@@ -1,96 +1,101 @@
 ## Hi there 👋
 
-<!--
-**ecoderP/ecoderP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # I'm Paul Onyebuchi
 
-Cloud Engineer focused on AWS, CI/CD, and cloud-native web deployment.
+Cloud & Software Engineer | AWS | Terraform | Python | C++ | Linux
 
-## Background:
+I'm an engineer transitioning deeper into software, cloud, and systems engineering, with a background spanning web development, IT instruction, engineering, and cloud infrastructure.
 
-- Chemical Engineering
-- Municipal Water Treatment & Distribution
-- 5+ years Web Development
-- AWS Certified Cloud Practitioner
+I enjoy building systems end-to-end - from application code and APIs to infrastructure, automation, deployment, and troubleshooting. My current focus is developing practical cloud engineering skills while strengthening my foundations in programming, Linux, operating systems, and systems development.
 
 My background in municipal infrastructure systems informs how I approach cloud engineering: designing for reliability, operational consistency, and scalable system delivery.
 
-## Currently building:
+## What I'm Working On:
 
-- CI/CD pipelines with GitHub Actions
-- AWS deployments (S3, CloudFront, IAM)
-- Serverless AI-driven web application (Amplify, Lambda, API Gateway, Bedrock)
-- Infrastructure as Code with Terraform
+- Building AWS cloud-native applications using services such as Lambda, API Gateway, S3, CloudFront, and Amazon Bedrock
+- Designing reusable infrastructure with Terraform
+- Automating builds and deployments with GitHub Actions and CI/CD
+- Developing with Python and JavaScript/React
+- Strengthening C++, Data Structures and Linux skills for systems-oriented development
+- Exploring cloud architectures that incorporate generative AI and semantic search
+- Long term, exploring the intersection of cloud, embedded systems, and IoT
 
-## Certifications
+## Technologies:
 
-- AWS Certified Cloud Practitioner
-- Preparing for AWS Certified Solutions Architect Associate
+### Languages:
 
-## Core Stack
+Python C++ JavaScript SQL HTML CSS
 
-### Cloud
+### Cloud & Infrastructure
 
-- AWS S3
-- CloudFront
-- IAM
-- CloudTrail
-- EC2
-- VPN, Subnets, ACLs
-- Bedrock
+AWS Terraform S3 CloudFront Lambda API Gateway IAM Amplify Bedrock
 
-### DevOps / Automation
+### Development
 
-- GitHub Actions
-- OIDC
-- CI/CD Pipelines
+React Vite Django REST APIs Git GitHub Actions
 
-### Infrastructure as Code
+### Systems
 
-- Terraform
+Linux Bash C++ Operating Systems
 
-### Frontend
+### AI
 
-- React
-- Vite
-- JavaScript
-- CSS, Tailwind CSS
-
-### Testing
-
-- Vitest
+Amazon Bedrock Generative AI
 
 ## Featured Projects
 
-### 1. Dual Platform CI/CD Deployment Pipeline - Cloud-Native Static Web Delivery Platform with Automated CI/CD
+### AI Water Quality Advisor
 
-A production-grade deployment pipeline for a React application deployed to AWS and GitHub Pages.
+A cloud-native application designed to analyze water quality reports, it takes water quality tests results from a user, and provide AI-assisted analysis and safety recommendations based on EPA and WHO water quality standards.
 
-#### Highlights
+Technologies: React • Python • AWS Lambda • API Gateway • Amazon Bedrock • Terraform • DynamoDB
 
-- Automated testing and deployment across two hosting targets.
-- Reduced deployment time from manual process to under 2 minutes.
-- OIDC secure AWS authentication
-- S3 deployment
-- CloudFront cache invalidation ensures users always see the most recent updates.
-- Dual deployment strategy
+The project explores how cloud services, operational regulations, generative AI, and software engineering workflows can be combined into a practical tool for public safety.
 
-### Tech
+### AWS Static Website Infrastructure
 
-React + Vite | AWS S3 | CloudFront | GitHub Actions | IAM Role | CloudTrail | Vitest | Tailwind CSS
+Reusable AWS infrastructure for deploying a static web application using Infrastructure as Code and automated CI/CD.
 
-### Links
+Technologies: Terraform • AWS S3 • CloudFront • IAM • GitHub Actions • OIDC
 
-![Architecture Diagran](img/CI-CDPipeline.webp)
+The project uses GitHub Actions with AWS OIDC authentication to deploy infrastructure and application changes without relying on long-lived AWS credentials.
 
-- [Live Demo](https://paulbuchi.xyz)
+### Personal Portfolio
 
-- [Repo](https://github.com/ecoderP/portfolio-3.0)
+A responsive React-based portfolio demonstrating frontend development and automated cloud deployment.
+
+Technologies: React • Vite • Tailwind CSS • AWS S3 • GitHub Pages • GitHub Actions
+
+The application is deployed through automated CI/CD workflows targeting both GitHub Pages and AWS.
+
+## Background
+
+My engineering background began with a B.Eng. in Chemical Engineering, where I developed experience working with complex real-world systems, technical analysis, troubleshooting, and regulated operational environments.
+
+I later built several years of practical experience in web development, working with WordPress, HTML, CSS, JavaScript, hosting environments, DNS, SSL, and production websites. I also taught ICT and web development, including HTML, CSS, and introductory Python scripting.
+
+I'm now focused on developing deeper expertise in cloud and software engineering, while building the computer science and systems foundations that will support my longer-term interest in embedded and IoT systems.
+
+## Current Focus
+
+Cloud Engineering
+↓
+Software & Systems
+↓
+C++ • Linux • Operating Systems
+↓
+Embedded Systems & IoT
+↓
+Cloud-Connected Devices
+
+I'm particularly interested in engineering problems that sit at the intersection of software, infrastructure, and physical systems.
 
 ## Connect
 
-LinkedIn: [Paul Onyebuchi](https://www.linkedin.com/in/paulonyebuchi/)
+• LinkedIn: [Paul Onyebuchi](https://www.linkedin.com/in/paulonyebuchi/)
 
-Portfolio: [Websie](https://paulbuchi.xyz)
+• Portfolio: [Websie](https://paulbuchi.xyz)
+
+• GitHub: You're already here.
+
+I'm interested in connecting with engineers, recruiters, and teams working in cloud computing, software engineering, infrastructure, distributed systems, embedded systems, and IoT.
