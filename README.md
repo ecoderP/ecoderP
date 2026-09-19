@@ -24,27 +24,41 @@ My background in municipal infrastructure systems informs how I approach cloud e
 
 ### Languages:
 
-Python C++ JavaScript SQL HTML CSS
+- Python
+- C++
+- JavaScript
+- SQL, HTML, CSS
 
-### Cloud & Infrastructure
+### Cloud & Infrastructure:
 
-AWS Terraform S3 CloudFront Lambda API Gateway IAM Amplify Bedrock
+- AWS
+- Terraform
+- S3, CloudFront
+- Lambda, API Gateway, IAM, Amplify
+- Bedrock
 
 ### Development
 
-React Vite Django REST APIs Git GitHub Actions
+- React, Vite
+- REST APIs
+- Git
+- GitHub Actions
 
 ### Systems
 
-Linux Bash C++ Operating Systems
+- Linux
+- Bash
+- C++
+- Operating Systems
 
 ### AI
 
-Amazon Bedrock Generative AI
+- Amazon Bedrock
+- Generative AI
 
 ## Featured Projects
 
-### AI Water Quality Advisor
+- ### AI Water Quality Advisor
 
 A cloud-native application designed to analyze water quality reports, it takes water quality tests results from a user, and provide AI-assisted analysis and safety recommendations based on EPA and WHO water quality standards.
 
@@ -52,7 +66,7 @@ Technologies: React • Python • AWS Lambda • API Gateway • Amazon Bedrock
 
 The project explores how cloud services, operational regulations, generative AI, and software engineering workflows can be combined into a practical tool for public safety.
 
-### AWS Static Website Infrastructure
+- ### AWS Static Website Infrastructure
 
 Reusable AWS infrastructure for deploying a static web application using Infrastructure as Code and automated CI/CD.
 
@@ -60,7 +74,7 @@ Technologies: Terraform • AWS S3 • CloudFront • IAM • GitHub Actions •
 
 The project uses GitHub Actions with AWS OIDC authentication to deploy infrastructure and application changes without relying on long-lived AWS credentials.
 
-### Personal Portfolio
+- ### Personal Portfolio
 
 A responsive React-based portfolio demonstrating frontend development and automated cloud deployment.
 
