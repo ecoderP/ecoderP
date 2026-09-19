@@ -97,7 +97,7 @@ I'm particularly interested in engineering problems that sit at the intersection
 
 • LinkedIn: [Paul Onyebuchi](https://www.linkedin.com/in/paulonyebuchi/)
 
-• Portfolio: [Websie](https://paulbuchi.xyz)
+• Portfolio: [Website](https://paulbuchi.xyz)
 
 • GitHub: You're already here.
 
