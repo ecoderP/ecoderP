@@ -79,7 +79,7 @@ I'm now focused on developing deeper expertise in cloud and software engineering
 
 ## Current Focus
 
-```text
+```
 Cloud Engineering
         ↓
 Software & Systems
